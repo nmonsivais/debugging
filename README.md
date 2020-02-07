@@ -1,12 +1,13 @@
 # Debugging Task
-## Contributers
-
-@nmonsivais
+Consolidated CSS and HTML on legacy code.
 
 ### Tech Stack
 HTML, CSS, Meyer's Reset
 
+## Contributers
+@nmonsivais
+
 ## Contact Info
-[Email](nmonsivais@gmail.com)
-[Twitter](http://www.twitter.com/Trobadour_XP)
+[Email](mailto:nmonsivais@gmail.com) |
+[Twitter](http://www.twitter.com/Trobadour_XP) |
 [YouTube](http://www.youtube.com/c/Trobadour_XP)
