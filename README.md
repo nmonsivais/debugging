@@ -1,4 +1,4 @@
-# debugging
+# Debugging Task
 ## Contributers
 
 @nmonsivais
@@ -8,5 +8,5 @@ HTML, CSS, Meyer's Reset
 
 ## Contact Info
 [Email](nmonsivais@gmail.com)
-[Twitter](www.twitter.com/Trobadour_XP)
-[YouTube](www.youtube.com/c/Trobadour_XP)
+[Twitter](http://www.twitter.com/Trobadour_XP)
+[YouTube](http://www.youtube.com/c/Trobadour_XP)
